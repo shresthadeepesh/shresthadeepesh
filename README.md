@@ -23,23 +23,23 @@
 ### - Languages and Tools...
 
 <p align="center">
-  <img src="https://github.com/JustaNormalDreamer/JustaNormalDreamer/master/svg/dev/languages/html5.svg" alt="HTML"
+  <img src="https://github.com/JustaNormalDreamer/JustaNormalDreamer/blob/master/svg/dev/languages/html5.svg" alt="HTML"
     style="vertical-align:top; margin:4px;">
-  <img src="https://github.com/JustaNormalDreamer/JustaNormalDreamer/master/svg/dev/languages/css3.svg" alt="CSS"
+  <img src="https://github.com/JustaNormalDreamer/JustaNormalDreamer/blob/master/svg/dev/languages/css3.svg" alt="CSS"
     style="vertical-align:top; margin:4px;">
-  <img src="https://github.com/JustaNormalDreamer/JustaNormalDreamer/master/svg/dev/languages/javascript.svg" alt="Javascript"
+  <img src="https://github.com/JustaNormalDreamer/JustaNormalDreamer/blob/master/svg/dev/languages/javascript.svg" alt="Javascript"
     style="vertical-align:top; margin:4px;">
-  <img src="https://github.com/JustaNormalDreamer/JustaNormalDreamer/master/svg/dev/languages/php.svg" alt="PHP"
+  <img src="https://github.com/JustaNormalDreamer/JustaNormalDreamer/blob/master/svg/dev/languages/php.svg" alt="PHP"
     style="vertical-align:top; margin:4px;">
-  <img src="https://github.com/JustaNormalDreamer/JustaNormalDreamer/master/svg/dev/frameworks/laravel.svg" alt="Laravel"
+  <img src="https://github.com/JustaNormalDreamer/JustaNormalDreamer/blob/master/svg/dev/frameworks/laravel.svg" alt="Laravel"
     style="vertical-align:top; margin:4px;">
-  <img src="https://github.com/JustaNormalDreamer/JustaNormalDreamer/master/svg/dev/frameworks/react.svg" alt="React"
+  <img src="https://github.com/JustaNormalDreamer/JustaNormalDreamer/blob/master/svg/dev/frameworks/react.svg" alt="React"
     style="vertical-align:top; margin:4px;">
-    <img src="https://github.com/JustaNormalDreamer/JustaNormalDreamer/master/svg/dev/tools/bash.svg" alt="React"
+    <img src="https://github.com/JustaNormalDreamer/JustaNormalDreamer/blob/master/svg/dev/tools/bash.svg" alt="React"
     style="vertical-align:top; margin:4px;">
-    <img src="https://github.com/JustaNormalDreamer/JustaNormalDreamer/master/svg/dev/tools/powershell.svg" alt="React"
+    <img src="https://github.com/JustaNormalDreamer/JustaNormalDreamer/blob/master/svg/dev/tools/powershell.svg" alt="React"
     style="vertical-align:top; margin:4px;">
-    <img src="https://github.com/JustaNormalDreamer/JustaNormalDreamer/master/svg/dev/tools/visualstudio_code.svg" alt="React"
+    <img src="https://github.com/JustaNormalDreamer/JustaNormalDreamer/blob/master/svg/dev/tools/visualstudio_code.svg" alt="React"
     style="vertical-align:top; margin:4px;">
   </p>
 
