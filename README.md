@@ -23,16 +23,16 @@
 ### - Languages and Tools...
 
 <p align="center">
-  <img src="https://github.com/JustaNormalDreamer/JustaNormalDreamer/blob/master/svg/dev/languages/html5.svg" alt="HTML"
+  <img src="https://github.com/JustaNormalDreamer/JustaNormalDreamer/blob/master/svg/dev/languages/html.svg" alt="HTML"
     style="vertical-align:top; margin:4px;">
   <img src="https://github.com/JustaNormalDreamer/JustaNormalDreamer/blob/master/svg/dev/languages/css3.svg" alt="CSS"
-    style="vertical-align:top; margin:4px;">
-  <img src="https://github.com/JustaNormalDreamer/JustaNormalDreamer/blob/master/svg/dev/languages/javascript.svg" alt="Javascript"
+    style="vertical-align:top; margin:4px;" width="20px" height="20px">
+  <img src="https://github.com/JustaNormalDreamer/JustaNormalDreamer/blob/master/svg/dev/languages/js.svg" alt="Javascript"
     style="vertical-align:top; margin:4px;">
   <img src="https://github.com/JustaNormalDreamer/JustaNormalDreamer/blob/master/svg/dev/languages/php.svg" alt="PHP"
     style="vertical-align:top; margin:4px;">
   <img src="https://github.com/JustaNormalDreamer/JustaNormalDreamer/blob/master/svg/dev/frameworks/laravel.svg" alt="Laravel"
-    style="vertical-align:top; margin:4px;">
+    style="vertical-align:top; margin:4px;" width="20px" height="20px">
   <img src="https://github.com/JustaNormalDreamer/JustaNormalDreamer/blob/master/svg/dev/frameworks/react.svg" alt="React"
     style="vertical-align:top; margin:4px;">
     <img src="https://github.com/JustaNormalDreamer/JustaNormalDreamer/blob/master/svg/dev/tools/bash.svg" alt="React"
@@ -46,6 +46,6 @@
 ### - Blog
 
 <a href="www.thetechlink.com">
-<img src="https://github.com/JustaNormalDreamer/JustaNormalDreamer/svg/blogs/devto.svg" alt="HTML"
+<img src="https://github.com/JustaNormalDreamer/blob/master/JustaNormalDreamer/svg/blogs/devto.svg" alt="HTML"
     style="vertical-align:top; margin:4px;">
     </a>
