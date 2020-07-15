@@ -45,7 +45,9 @@
 
 ### - Blog
 
+<p align="center">
 <a href="www.thetechlink.com">
 <img src="https://github.com/JustaNormalDreamer/JustaNormalDreamer/blob/master/svg/blogs/devto.svg" alt="HTML"
     style="vertical-align:top; margin:4px;">
     </a>
+  </p>
