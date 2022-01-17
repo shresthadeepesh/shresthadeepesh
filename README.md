@@ -1,4 +1,4 @@
-### Hi there, I'm [Dipesh Shrestha!](https://shresthadeepesh.com.np) 👋.
+### Hi there, I'm [Dipesh Shrestha!](https://justanormaldreamer.github.io) 👋.
 
 <br/>
 <a href="https://www.instagram.com/dipesh.restha/">
@@ -22,6 +22,8 @@
 ### from Nepal.
 
 ### - Languages and Tools...
+
+Full stack Web Developer specializing in backend and frontend development. Experienced with all stages of the development cycle for dynamic web projects. Well-versed in numerous programming languages including HTML5, PHP, JavaScript, CSS, MySQL, Typescript and Java. Strong background in OOP and project management.
 
 <p align="center">
   <img src="https://github.com/JustaNormalDreamer/JustaNormalDreamer/blob/master/svg/dev/languages/html.svg" alt="HTML"
