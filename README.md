@@ -11,7 +11,7 @@
 
 ### Hi 🙋‍♂️,
 
-### I'm 22 years old
+### I'm 23 years old
 
 #### 👨‍💻 Tech enthusiast
 
@@ -36,10 +36,6 @@
     style="vertical-align:top; margin:4px;" width="40px" height="40px">
   <img src="https://github.com/JustaNormalDreamer/JustaNormalDreamer/blob/master/svg/dev/frameworks/react.svg" alt="React"
     style="vertical-align:top; margin:4px;">
-    <img src="https://github.com/JustaNormalDreamer/JustaNormalDreamer/blob/master/svg/dev/tools/bash.svg" alt="React"
-    style="vertical-align:top; margin:4px;">
-    <img src="https://github.com/JustaNormalDreamer/JustaNormalDreamer/blob/master/svg/dev/tools/powershell.svg" alt="React"
-    style="vertical-align:top; margin:4px;">
     <img src="https://github.com/JustaNormalDreamer/JustaNormalDreamer/blob/master/svg/dev/tools/visualstudio_code.svg" alt="React"
     style="vertical-align:top; margin:4px;">
   </p>
@@ -47,7 +43,7 @@
 ### - Blog
 
 <p align="center">
-<a href="www.thetechlink.com">
+<a href="http://www.thetechlink.com">
 <img src="https://github.com/JustaNormalDreamer/JustaNormalDreamer/blob/master/svg/blogs/devto.svg" alt="HTML"
     style="vertical-align:top; margin:4px;">
     </a>
