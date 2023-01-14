@@ -23,7 +23,7 @@
 
 ### - Languages and Tools...
 
-Full stack Software Engineer specializing in backend and frontend development. Experienced with all stages of the development cycle for dynamic web projects. Well-versed in numerous programming languages including HTML5, PHP, JavaScript, CSS, MySQL, Typescript and Java. Strong background in OOP and project management.
+I am a highly skilled and experienced full stack software engineer with around 3 years of experience in the field. I have a solid background in various technologies, including PHP, Typescript, Rest API, JWT, Graphql, and ReactJs. I am well-versed in the entire software development process, from gathering requirements and designing solutions to coding, testing, and deployment. I have a proven track record of delivering high-quality, reliable software that meets or exceeds client expectations. I am a strong problem solver, able to quickly learn new technologies and programming languages, and dedicated to delivering high-quality work. I am also a team player and able to work effectively in a collaborative environment. Overall, I would be a valuable asset to any team or organization looking for a talented and experienced software engineer.
 
 <p align="center">
   <img src="https://github.com/JustaNormalDreamer/JustaNormalDreamer/blob/master/svg/dev/languages/html.svg" alt="HTML"
