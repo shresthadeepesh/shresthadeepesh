@@ -43,12 +43,3 @@ Besides being a full-stack software engineer, I am also a tech enthusiast and av
     <img src="https://github.com/JustaNormalDreamer/JustaNormalDreamer/blob/master/svg/dev/tools/visualstudio_code.svg" alt="React"
     style="vertical-align:top; margin:4px;">
   </p>
-
-### - Blog
-
-<p align="center">
-<a href="http://www.thetechlink.com">
-<img src="https://github.com/JustaNormalDreamer/JustaNormalDreamer/blob/master/svg/blogs/devto.svg" alt="HTML"
-    style="vertical-align:top; margin:4px;">
-    </a>
-  </p>
