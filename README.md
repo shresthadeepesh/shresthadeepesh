@@ -1,4 +1,4 @@
-### Hi there, I'm [Dipesh Shrestha!](https://justanormaldreamer.github.io) 👋.
+### Hi there, I'm [Dipesh Shrestha!](https://shresthadeepesh.com.np) 👋.
 
 <br/>
 <a href="https://www.instagram.com/dipesh.restha/">
