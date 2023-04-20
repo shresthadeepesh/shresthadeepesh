@@ -11,8 +11,6 @@
 
 ### Hi 🙋‍♂️,
 
-### I'm 24 years old
-
 #### 👨‍💻 Tech enthusiast
 
 #### 🎮 Gamer
