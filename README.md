@@ -11,6 +11,7 @@
 <a href="https://shresthadeepesh.com.np"><img src="https://img.shields.io/badge/website-0d1117?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
 <a href="https://www.instagram.com/dipesh.restha/"><img src="https://img.shields.io/badge/instagram-0d1117?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <a href="https://www.facebook.com/Get.Dipesh/"><img src="https://img.shields.io/badge/facebook-0d1117?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://www.youtube.com/@shresthadeepesh"><img src="https://img.shields.io/badge/youtube-0d1117?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
 
 </div>
 
