@@ -1,45 +1,43 @@
-### Hi there, I'm [Dipesh Shrestha!](https://shresthadeepesh.com.np) 👋.
+<div align="center">
+
+<a href="https://shresthadeepesh.com.np">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=900&color=8B949E&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Dipesh+Shrestha+%F0%9F%91%8B;Full-stack+software+engineer;Tech+enthusiast+%C2%B7+Gamer;Based+in+Nepal+%F0%9F%87%B3%F0%9F%87%B5" alt="Hi, I'm Dipesh Shrestha" />
+</a>
+
+<sub>building things for the web — one commit at a time</sub>
+
+<br/><br/>
+
+<a href="https://shresthadeepesh.com.np"><img src="https://img.shields.io/badge/website-0d1117?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
+<a href="https://www.instagram.com/dipesh.restha/"><img src="https://img.shields.io/badge/instagram-0d1117?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://www.facebook.com/Get.Dipesh/"><img src="https://img.shields.io/badge/facebook-0d1117?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
+
+</div>
 
 <br/>
-<a href="https://www.instagram.com/dipesh.restha/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/Get.Dipesh/">
-  <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+
+```ts
+const dipesh = {
+  role:      "Full-Stack Software Engineer",
+  location:  "Nepal 🇳🇵",
+  stack:     ["TypeScript", "Go", "PHP", "React", "Laravel", "GraphQL", "REST"],
+  cloud:     "AWS",
+  auth:      "JWT",
+  workflow:  "requirements → design → code → test → ship",
+  offline:   ["🎮 gaming", "🧪 trying new tech"],
+};
+```
+
+I work across the whole stack — from shaping requirements and designing APIs to shipping reliable, tested software. I pick up new tools fast, care about clean code, and enjoy working with a team that ships.
+
 <br/>
 
-### Hi 🙋‍♂️,
+<div align="center">
 
-#### I'm
+<img src="https://skillicons.dev/icons?i=ts,go,js,php,laravel,react,graphql,aws,html,css,vscode&theme=dark&perline=11" alt="Tech stack" />
 
-#### 👨‍💻 Tech enthusiast
+<br/><br/>
 
-#### 🎮 Gamer
+<sub>── ✦ ──</sub>
 
-#### 🌐 Software Engineer
-
-### from Nepal.
-
-### - Languages and Tools...
-
-I am a highly skilled and experienced full stack software engineer with around 3 years of experience in the field. I have a solid background in various technologies, including PHP, Typescript, Rest API, JWT, Graphql, AWS, and ReactJs. I am well-versed in the entire software development process, from gathering requirements and designing solutions to coding, testing, and deployment. I have a proven track record of delivering high-quality, reliable software that meets or exceeds client expectations. I am a strong problem solver, able to quickly learn new technologies and programming languages, and dedicated to delivering high-quality work. I am also a team player and able to work effectively in a collaborative environment. Overall, I would be a valuable asset to any team or organization looking for a talented and experienced software engineer.
-
-Besides being a full-stack software engineer, I am also a tech enthusiast and avid gamer, constantly staying up to date with the latest advancements in technology and incorporating them into my work. I am highly motivated and always eager to take on new challenges.
-
-<p align="center">
-  <img src="https://github.com/JustaNormalDreamer/JustaNormalDreamer/blob/master/svg/dev/languages/html.svg" alt="HTML"
-    style="vertical-align:top; margin:4px;">
-  <img src="https://github.com/JustaNormalDreamer/JustaNormalDreamer/blob/master/svg/dev/languages/css3.svg" alt="CSS"
-    style="vertical-align:top; margin:4px;" width="40px" height="40px">
-  <img src="https://github.com/JustaNormalDreamer/JustaNormalDreamer/blob/master/svg/dev/languages/js.svg" alt="Javascript"
-    style="vertical-align:top; margin:4px;">
-  <img src="https://github.com/JustaNormalDreamer/JustaNormalDreamer/blob/master/svg/dev/languages/php.svg" alt="PHP"
-    style="vertical-align:top; margin:4px;">
-  <img src="https://github.com/JustaNormalDreamer/JustaNormalDreamer/blob/master/svg/dev/frameworks/laravel.svg" alt="Laravel"
-    style="vertical-align:top; margin:4px;" width="40px" height="40px">
-  <img src="https://github.com/JustaNormalDreamer/JustaNormalDreamer/blob/master/svg/dev/frameworks/react.svg" alt="React"
-    style="vertical-align:top; margin:4px;">
-    <img src="https://github.com/JustaNormalDreamer/JustaNormalDreamer/blob/master/svg/dev/tools/visualstudio_code.svg" alt="React"
-    style="vertical-align:top; margin:4px;">
-  </p>
+</div>
